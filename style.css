@@ -1,0 +1,40 @@
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding: 0 25%;
+}
+.image {
+    margin-top: 20px;
+    height : 200px;
+    width: 200px;
+    border-radius: 25%;
+
+}
+.image img {
+    margin : 20px 0 0 0;
+    height : 200px;
+    width: 200px;
+    border-radius: 25%
+}
+.container {
+     width :600px;
+    height : 1000px;
+    border : 5px solid black;
+    background-color: rgb(176, 209, 209);
+    
+}
+
+.name_birth {
+    margin-bottom: 10px;
+   
+}
+
+.head_section {
+    display: flex;
+    justify-content: space-evenly;
+    align-items:end;
+    text-align: end;
+}
